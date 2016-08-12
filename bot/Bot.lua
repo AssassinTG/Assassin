@@ -218,24 +218,17 @@ function create_config( )
     "arabic_lock",
     "banhammer",
     "broadcast",
-    "calc",
     "charge",
-    "chat",
     "deleted",
     "dlban",
-    "echo",
     "feedback",
     "filter",
     "get",
     "id",
-    "imagepro",
     "info",
     "ingroup",
     "inpm",
     "inrealm",
-    "invite",
-    "keepcalm",
-    "keepcalmpro",
     "kickme",
     "leave_ban",
     "linkpv",
@@ -250,15 +243,11 @@ function create_config( )
     "lock_reply",
     "lock_tag",
     "lock_username",
-    "me",
-    "me2",
     "msg_checks",
     "muteall",
-    "nerkh",
     "onservice",
     "on-off",
     "owners",
-    "ping",
     "plugins",
     "rmsg",
     "send",
@@ -266,33 +255,21 @@ function create_config( )
     "set",
     "set_type",
     "sh",
-    "shortlink",
     "show",
     "stats",
     "supergroup",
     "support",
-    "textTOgif",
-    "time",
-    "tovoice",
     "updater",
     "warn",
-    "whitelist",
-    "write"
+    "whitelist"
     },
     sudo_users = {239607076,214344324},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[UltronTG v 1.7
-    
-My Team:
-@i_liked [Developer]
-@MrDear [Developer]
-
-Our channels
-Telegram.me/UltronTM [persian]
+    about_text = [[
 ]],
-    help_text_realm = [[Hmmmmm!
+    help_text_realm = [[
 ]],
-    help_text = [[Hmmmmmm!
+    help_text = [[
 ]],
 	help_text_super =[[
 ‼SuperGroup Commands⤵️
@@ -385,16 +362,7 @@ Telegram.me/UltronTM [persian]
 ❕نمایش تعداد اخطار های کاربر
 ❗️/warnmax [1-10]
 ❕تعیین تعداد اخطار ها
-❗️/me
-❕نمایش مقام و اطلاعات شما 
 ❗️/nerkh
-❕نمایش نرخ گروخ با ربات UltronTG
-❗️/time
-❕نمایش ساعت 
-❗️/write [Text] 
-❕زیبا نویسب کلمه شما با ۱۰۰ فونت
-❗️/shortlink [Link] 
-❕کوتاه کردن لینک
 ❗️/charge
 ❕نمایش مقدار شارژ باقی مانده گروه
 ❗/support
